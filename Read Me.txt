@@ -1,0 +1,15 @@
+13-2-2022    
+Developer : Raslan Shabaan Raslan
+Tassk     : Asset Assignment 
+
+* simple rest web service films app user can login and create account to :
+-add movie 
+-search by id for movie 
+-search for all movies 
+-delete movie 
+-update movie 
+-search for cast in movie 
+
+"database local "
+technologies used : spring boot - spring rest - Exception Handling - spring data - jps - Jwt Token - Http Status codes
+tools : Oracle Db - Sql Developer - Postman - Sts ide 
